@@ -1,0 +1,16 @@
+.footer {
+  background-color: #fff;
+  background-color: lightblue;
+  height: 5rem;
+  color: #333;
+}
+
+.footer ul {
+  display: flex;
+  list-style: none;
+  margin: 1rem 0rem;
+}
+
+.footer li {
+  margin: 1rem;
+}
