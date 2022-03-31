@@ -9,7 +9,7 @@ const App = () => {
     <div className={css["app"]}>
       <Header />
       <main>
-        <h1>Dad jokes:</h1>
+        <h1>Dad Jokes:</h1>
         <Joke />
       </main>
       <Footer />

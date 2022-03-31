@@ -22,6 +22,11 @@
 .header a {
   font-size: 1.5rem;
   text-decoration: none;
+  color: #333;
+}
+
+.header a:hover {
+  color: #5cbedf;
 }
 
 hr {

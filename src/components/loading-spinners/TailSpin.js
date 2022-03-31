@@ -85,7 +85,7 @@ export const TailSpin = (props) => (
 TailSpin.defaultProps = {
   height: 80,
   width: 80,
-  color: "green",
+  color: "blue",
   radius: 1,
   label: "audio-loading",
 };
