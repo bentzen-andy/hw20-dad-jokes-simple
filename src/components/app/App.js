@@ -8,8 +8,10 @@ const App = () => {
   return (
     <div className={css["app"]}>
       <Header />
-      <h1>Dad jokes:</h1>
-      <Joke />
+      <main>
+        <h1>Dad jokes:</h1>
+        <Joke />
+      </main>
       <Footer />
     </div>
   );

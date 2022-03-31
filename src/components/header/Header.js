@@ -1,19 +1,18 @@
 import React from "react";
 import css from "./Header.module.css";
 
-const Header = ({ loggedInStatus }) => {
+const Header = () => {
   return (
-    <React.Fragment>
-      <header className={css["header"]}>
-        <ul>
-          <li>HW20</li>
-          <li>
-            <a href=""> Github</a>
-          </li>
-        </ul>
-      </header>
-      <hr />
-    </React.Fragment>
+    <header className={css["header"]}>
+      <ul>
+        <li>HW20</li>
+        <li>
+          <a href="https://github.com/bentzen-andy/hw20-dad-jokes-simple">
+            Github
+          </a>
+        </li>
+      </ul>
+    </header>
   );
 };
 
