@@ -2,7 +2,7 @@
   "name": "hw20-dad-jokes-simple",
   "version": "0.1.0",
   "private": true,
-  "homepage": "./hw20-dad-jokes-simple",
+  "homepage": "http://35.245.144.0/hw20-dad-jokes-simple",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
